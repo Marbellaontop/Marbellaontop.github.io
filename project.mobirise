@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Kantoor De Maerteleire",
-    "currentPage": "fotogallerij.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -102,7 +102,7 @@
             }
           },
           "title": "Los Monteros Hill Club&nbsp;",
-          "text": "Sun - Sea - Marbella-East",
+          "text": "Sun - Sea - View Marbella-East",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -236,7 +236,7 @@
             "secondType": "bg-primary",
             "thirdType": "hidden",
             "fourthType": "hidden",
-            "paddingTop": 3,
+            "paddingTop": "2",
             "paddingBottom": 3,
             "showButtons": false,
             "bgImageRadio": false,
@@ -253,7 +253,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Tarieven",
-          "subtitle": "Voor beschikbaarheid, stuur ons een mailtje !",
+          "subtitle": "Voor beschikbaarheid, stuur ons een mailtje ! Minimum weekverhuur - Mogelijkheid tot maandverhuur !",
           "label1": "HOT!",
           "title1": "LAAGSEIZOEN",
           "subtitle1": "1 september tot &amp; met &nbsp;30 juni",
