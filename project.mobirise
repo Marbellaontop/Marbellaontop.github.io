@@ -24,7 +24,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 34,
+    "uniqCompNum": 35,
     "versionPublish": "4.8.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -740,8 +740,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "description1": "",
-          "description2": "",
+          "description1": "Meer details",
+          "description2": "Meer details",
           "description3": "More details",
           "description4": "More details",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">DEMO</a>",
@@ -782,7 +782,7 @@
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
           "_name": "pricing-table2",
-          "_anchor": "pricing-table2-x"
+          "_anchor": "pricing-table2-y"
         }
       ]
     },

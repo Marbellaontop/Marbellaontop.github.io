@@ -573,21 +573,21 @@ h6,
 #menu-u .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#pricing-table2-x .mbr-plan-header,
-#pricing-table2-x .mbr-plan-body {
+#pricing-table2-y .mbr-plan-header,
+#pricing-table2-y .mbr-plan-body {
   background-color: #f4f4f4;
 }
-#pricing-table2-x ul,
-#pricing-table2-x .mbr-plan-title,
-#pricing-table2-x .mbr-price-value,
-#pricing-table2-x .mbr-price-figure,
-#pricing-table2-x .mbr-price-term {
+#pricing-table2-y ul,
+#pricing-table2-y .mbr-plan-title,
+#pricing-table2-y .mbr-price-value,
+#pricing-table2-y .mbr-price-figure,
+#pricing-table2-y .mbr-price-term {
   color: #28262b;
 }
-#pricing-table2-x .mbr-plan {
+#pricing-table2-y .mbr-plan {
   border-color: #e8e8e8;
 }
-#pricing-table2-x .mbr-plan .list-group-item {
+#pricing-table2-y .mbr-plan .list-group-item {
   border-color: #cfcfcf;
 }
 #menu-r .hide-buttons .nav-btn {
