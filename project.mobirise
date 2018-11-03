@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Kantoor De Maerteleire",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -24,7 +24,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 33,
+    "uniqCompNum": 34,
     "versionPublish": "4.8.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -724,7 +724,7 @@
             "secondType": "bg-primary",
             "thirdType": "hidden",
             "fourthType": "hidden",
-            "paddingTop": 3,
+            "paddingTop": "3",
             "paddingBottom": 3,
             "showButtons": false,
             "bgImageRadio": false,
@@ -740,8 +740,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "description1": "Meer details",
-          "description2": "Meer details",
+          "description1": "",
+          "description2": "",
           "description3": "More details",
           "description4": "More details",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">DEMO</a>",
@@ -752,7 +752,7 @@
             "Thema"
           ],
           "title": "Tarieven",
-          "subtitle": "Voor beschikbaarheid, stuur ons een mailtje !",
+          "subtitle": "Voor beschikbaarheid, stuur ons een mailtje ! Minimum weekverhuur - Mogelijkheid tot maandverhuur !",
           "title1": "LAAGSEIZOEN",
           "title2": "HOOGSEIZOEN",
           "title3": "PREMIUM",
@@ -782,7 +782,7 @@
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
           "_name": "pricing-table2",
-          "_anchor": "pricing-table2-w"
+          "_anchor": "pricing-table2-x"
         }
       ]
     },
