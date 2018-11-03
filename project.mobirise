@@ -44,6 +44,18 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "72px"
+            },
+            ".mbr-section-text": {
+              "text-align": "center",
+              "font-size": "18px"
+            }
+          },
           "_anchor": "header2-0",
           "_params": {
             "imageSize": "50",
@@ -89,19 +101,7 @@
           },
           "title": "Los Monteros Hill Club&nbsp;",
           "text": "Sun - Sea - Marbella-East",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "center",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "72px"
-            },
-            ".mbr-section-text": {
-              "text-align": "center",
-              "font-size": "18px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_inherit": "gallery1",
@@ -259,7 +259,7 @@
           "price1": "1050",
           "period1": "/week.",
           "description1": "Meer details",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">2 2-persoonsbedden</li><li class=\"list-group-item\">geschikt voor maximum voor 4 personen</li><li class=\"list-group-item\">gratis WIFI</li></ul>",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">2 slaapkamers - 2 badkamers</li><li class=\"list-group-item\"> 2-persoonsbedden</li><li class=\"list-group-item\">geschikt voor maximum voor 4 personen</li><li class=\"list-group-item\">gratis WIFI</li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">DEMO</a>",
           "label2": "HOT!",
           "title2": "HOOGSEIZOEN",
@@ -268,7 +268,7 @@
           "price2": "1250",
           "period2": "/week.",
           "description2": "Meer details",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">2 2-persoonsbedden</li><li class=\"list-group-item\">geschikt voor maximum 4 personen</li><li class=\"list-group-item\">gratis WIFI</li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">2 slaapkamers - 2 badkamers</li><li class=\"list-group-item\"> 2-persoonsbedden</li><li class=\"list-group-item\">geschikt voor maximum 4 personen</li><li class=\"list-group-item\">gratis WIFI</li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "label3": "HOT!",
           "title3": "PREMIUM",
@@ -418,7 +418,7 @@
           "_name": "testimonials3",
           "testimonial": [
             {
-              "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
+              "text": "<p>“Echt een mega mooie locatie! Je moet er even een beetje voor rijden, maar dan heb je ook een super mooi uitzicht. En je hebt een prima zwembad op een paar meter lopen afstand. Ook het appartement is top. Elke slaapkamer beschikt over een aparte badkamer. Ik raad wel aan een auto te huren, tenzij je geen behoefte hebt aan strand natuurlijk. Bezoek vooral het oude stadscentrum. Doet heel knus en authentiek aan. Leuk sfeertje. Marbella is een hele mooie badplaats.”</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face3.jpg",
@@ -428,11 +428,11 @@
                   "active": true
                 }
               },
-              "authorName": "Abanoub S.",
+              "authorName": "Katrien",
               "authorBio": "User"
             },
             {
-              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>",
+              "text": "<p>“Myself and my family spent a month at this beautiful apartment. The apartment is very clean, spacious with sunshine and sea views . I would recommend this apartment to any family. Cabopino beach was our favourite go to beach. Sad to be back in UK.<span style=\"font-size: 1.125rem; line-height: 2;\">”</span></p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face1.jpg",
@@ -442,11 +442,11 @@
                   "active": true
                 }
               },
-              "authorName": "Suffian A.",
+              "authorName": "Dean.",
               "authorBio": "User"
             },
             {
-              "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+              "text": "<p>“Appartement très agréable, propre et bien équipé. Il est mieux que sur les photos. Il dispose même d'une vue sur mer. On va sûrement revenir à cet appartement à notre prochain séjour.”</p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
@@ -456,7 +456,7 @@
                   "active": true
                 }
               },
-              "authorName": "Jhollman C.",
+              "authorName": "Eric.",
               "authorBio": "User"
             }
           ],
@@ -464,6 +464,10 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
+            "count": 3,
+            "showImages": false,
+            "showName": true,
+            "showBio": false,
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1500.jpg",
@@ -473,11 +477,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubtitle": false,
-            "count": 3,
-            "showImages": false,
-            "showName": true,
-            "showBio": false
+            "showSubtitle": false
           },
           "title": "Wat vertellen gasten over hun verblijf ?",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
