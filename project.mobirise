@@ -1437,7 +1437,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-1400x814.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x905.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1580,7 +1580,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1117.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1008.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
