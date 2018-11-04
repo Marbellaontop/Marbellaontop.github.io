@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Kantoor De Maerteleire",
-    "currentPage": "Huishoudelijk reglement.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -24,7 +24,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 55,
+    "uniqCompNum": 58,
     "versionPublish": "4.8.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -566,7 +566,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HOME</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fotogallerij.html\">FOTOGALLERIJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRIJSLIJST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">APPARTEMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Huishoudelijk reglement.html\">Huishoudelijk reglement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/12%20daguitstapjes%20aan%20de%20Costa%20Del%20Sol.pdf\">Daguitstappen in de buurt<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://events.marbellafamilyfun.com/\" target=\"_blank\">Activiteiten-agenda</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voorzieningen.html\" aria-expanded=\"false\">Voorzieningen<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">TEL: +32 477/251. 387</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fotogallerij.html\">FOTOGALLERIJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRIJSLIJST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">APPARTEMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Huishoudelijk reglement.html\">Huishoudelijk reglement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/12%20daguitstapjes%20aan%20de%20Costa%20Del%20Sol.pdf\">Daguitstappen in de buurt<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://events.marbellafamilyfun.com/\" target=\"_blank\">Activiteiten-agenda</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voorzieningen.html\" aria-expanded=\"false\">Voorzieningen<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">TEL: +32 477/251. 387</a></li>"
         },
         {
           "_tags": [
@@ -594,7 +594,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Prijslijst",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -678,7 +678,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HOME</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fotogallerij.html\">FOTOGALLERIJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRIJSLIJST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">APPARTEMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Huishoudelijk reglement.html\">Huishoudelijk reglement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/12%20daguitstapjes%20aan%20de%20Costa%20Del%20Sol.pdf\">Daguitstappen in de buurt<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://events.marbellafamilyfun.com/\" target=\"_blank\">Activiteiten-agenda</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voorzieningen.html\" aria-expanded=\"false\">Voorzieningen<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">TEL: +32 477/251. 387</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fotogallerij.html\">FOTOGALLERIJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRIJSLIJST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">APPARTEMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Huishoudelijk reglement.html\">Huishoudelijk reglement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/12%20daguitstapjes%20aan%20de%20Costa%20Del%20Sol.pdf\">Daguitstappen in de buurt<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://events.marbellafamilyfun.com/\" target=\"_blank\">Activiteiten-agenda</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voorzieningen.html\" aria-expanded=\"false\">Voorzieningen<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">TEL: +32 477/251. 387</a></li>",
           "_anchor": "menu-u"
         },
         {
@@ -790,7 +790,7 @@
       "settings": {
         "title": "Fotogallerij",
         "meta_descr": "Web Builder Description",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -875,7 +875,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HOME</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fotogallerij.html\">FOTOGALLERIJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRIJSLIJST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">APPARTEMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Huishoudelijk reglement.html\">Huishoudelijk reglement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/12%20daguitstapjes%20aan%20de%20Costa%20Del%20Sol.pdf\">Daguitstappen in de buurt<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://events.marbellafamilyfun.com/\" target=\"_blank\">Activiteiten-agenda</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voorzieningen.html\" aria-expanded=\"false\">Voorzieningen<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">TEL: +32 477/251. 387</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fotogallerij.html\">FOTOGALLERIJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRIJSLIJST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">APPARTEMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Huishoudelijk reglement.html\">Huishoudelijk reglement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/12%20daguitstapjes%20aan%20de%20Costa%20Del%20Sol.pdf\">Daguitstappen in de buurt<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://events.marbellafamilyfun.com/\" target=\"_blank\">Activiteiten-agenda</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voorzieningen.html\" aria-expanded=\"false\">Voorzieningen<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">TEL: +32 477/251. 387</a></li>"
         },
         {
           "_tags": [
@@ -1177,7 +1177,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1261,7 +1261,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HOME</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fotogallerij.html\">FOTOGALLERIJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRIJSLIJST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">APPARTEMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Huishoudelijk reglement.html\">Huishoudelijk reglement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/12%20daguitstapjes%20aan%20de%20Costa%20Del%20Sol.pdf\">Daguitstappen in de buurt<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://events.marbellafamilyfun.com/\" target=\"_blank\">Activiteiten-agenda</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voorzieningen.html\" aria-expanded=\"false\">Voorzieningen<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">TEL: +32 477/251. 387</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fotogallerij.html\">FOTOGALLERIJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRIJSLIJST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">APPARTEMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Huishoudelijk reglement.html\">Huishoudelijk reglement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/12%20daguitstapjes%20aan%20de%20Costa%20Del%20Sol.pdf\">Daguitstappen in de buurt<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://events.marbellafamilyfun.com/\" target=\"_blank\">Activiteiten-agenda</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voorzieningen.html\" aria-expanded=\"false\">Voorzieningen<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">TEL: +32 477/251. 387</a></li>",
           "_anchor": "menu-15"
         },
         {
@@ -1409,7 +1409,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Huishoudelijk reglement",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -1549,7 +1549,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HOME</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fotogallerij.html\">FOTOGALLERIJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRIJSLIJST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">APPARTEMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Huishoudelijk reglement.html\">Huishoudelijk reglement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/12%20daguitstapjes%20aan%20de%20Costa%20Del%20Sol.pdf\">Daguitstappen in de buurt<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://events.marbellafamilyfun.com/\" target=\"_blank\">Activiteiten-agenda</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voorzieningen.html\" aria-expanded=\"false\">Voorzieningen<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">TEL: +32 477/251. 387</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fotogallerij.html\">FOTOGALLERIJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRIJSLIJST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">APPARTEMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Huishoudelijk reglement.html\">Huishoudelijk reglement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/12%20daguitstapjes%20aan%20de%20Costa%20Del%20Sol.pdf\">Daguitstappen in de buurt<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://events.marbellafamilyfun.com/\" target=\"_blank\">Activiteiten-agenda</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voorzieningen.html\" aria-expanded=\"false\">Voorzieningen<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">TEL: +32 477/251. 387</a></li>",
           "_anchor": "menu-1c"
         },
         {
@@ -1600,6 +1600,236 @@
           ],
           "_name": "header1",
           "_anchor": "header1-1h"
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "meta_descr": "Web Site Maker Description",
+        "title": "Contact us",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HOME</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fotogallerij.html\">FOTOGALLERIJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRIJSLIJST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">APPARTEMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Huishoudelijk reglement.html\">Huishoudelijk reglement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/12%20daguitstapjes%20aan%20de%20Costa%20Del%20Sol.pdf\">Daguitstappen in de buurt<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://events.marbellafamilyfun.com/\" target=\"_blank\">Activiteiten-agenda</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voorzieningen.html\" aria-expanded=\"false\">Voorzieningen<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">TEL: +32 477/251. 387</a></li>",
+          "_anchor": "menu-1j"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 Marbella-on-top",
+          "_anchor": "footer1-1k"
+        },
+        {
+          "_inherit": "contacts3",
+          "_styles": {
+            "p, .list-group-text, .form-control-label": {
+              "color": "#000"
+            },
+            "strong, h4": {
+              "color": "#7e9b9f"
+            },
+            "form .form-control": {
+              "border-color": "rgba(0, 0, 0, 0.2)",
+              "color": "#565656"
+            },
+            ".mbr-footer-content li": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.1)"
+            },
+            ".mbr-company .list-group-text::after": {
+              "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
+            }
+          },
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts5",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text5": "<li><a class=\"text-primary\" href=\"#\">Business</a></li><li><a class=\"text-primary\" href=\"#\">Design</a></li><li><a class=\"text-primary\" href=\"#\">Real life</a></li><li><a class=\"text-primary\" href=\"#\">Science</a></li><li><a class=\"text-primary\" href=\"#\">Tech</a></li>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\">Contact us</a>",
+          "_tags": [
+            "Thema"
+          ],
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-265x172.jpg",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Categories",
+          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
+          "text2": "+1 (0) 000 0000 001 or +1 (0) 000 0000 002",
+          "text3": "1234 Street Name, City AA 99999",
+          "text4": "<a href=\"mailto:support@mobirise.com\">support@mobirise.com</a>",
+          "text6": "<strong>Contacts</strong><br>Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>1234 Street Name<br>City, AA 99999",
+          "form": {
+            "title": "MESSAGE",
+            "action": "info@demaerteleire.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_name": "contacts5",
+          "_anchor": "contacts5-1l"
         }
       ]
     }
