@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Kantoor De Maerteleire",
-    "currentPage": "Contact us.html",
+    "currentPage": "voorzieningen.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1366,7 +1366,7 @@
           },
           "title3": "Voorzieningen",
           "subtitle3": "----------",
-          "caption3": "&nbsp;Terras\n<br>TV\n<br>&nbsp;Satellietkanalen\n<br>• Open haard\n<br>• Koelkast\n<br>• Magnetron\n<br>• Keuken\n<br>• Elektrische waterkoker\n<br>• Keukengerei\n<br>• Oven\n<br>• Broodrooster\n<br>• Koffiezetapparaat\n<br><br>",
+          "caption3": "&nbsp;Terras\n<br>TV\n<br>&nbsp;• Koelkast\n<br>• Magnetron\n<br>• Keuken\n<br>• Elektrische waterkoker\n<br>• Keukengerei\n<br>• Oven\n<br>• Broodrooster\n<br>• Koffiezetapparaat\n<br><br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
