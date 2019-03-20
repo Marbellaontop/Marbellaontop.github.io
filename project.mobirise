@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "Kantoor De Maerteleire",
-    "currentPage": "voorzieningen.html",
+    "name": "Kantoor De Maerteleire - Marbella on top",
+    "currentPage": "fotogallerij.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -19,17 +19,18 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
-      }
+      },
+      "additionalSetColors": []
     },
     "favicon": "@PROJECT_PATH@/assets/images/logo-maerteleire-web-mail-128x73-91.jpg",
     "noImageResize": "",
     "versionFirst": "3.6.4",
     "uniqCompNum": 88,
-    "versionPublish": "3.12.1",
+    "versionPublish": "4.8.6",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [],
-    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-85117162-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
+    "google-analytics": "",
     "cookiesAlert": "",
     "gdpr": ""
   },
@@ -63,24 +64,24 @@
           },
           "_anchor": "header2-0",
           "_params": {
-            "imageSize": "50",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-2000x1500.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": "0.1",
-            "overlayColor": "#000",
-            "inverse": false,
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "showArrow": true
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": "50",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-2000x1500.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.1"
           },
           "media": {
             "image": {
@@ -114,8 +115,15 @@
           ],
           "_name": "gallery2",
           "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 0,
             "paddingTop": 4,
             "paddingBottom": 4,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "Animated",
@@ -197,14 +205,7 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ],
-            "spacing": 0,
-            "showText": false,
-            "filter": false,
-            "bgColor": "fff",
-            "filterBgColor": false,
-            "fullWidth": true,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery2-3",
           "articleLayout": false,
@@ -232,30 +233,30 @@
           "_name": "pricing-table2",
           "_anchor": "pricing-table2-g",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
             "showTitle": true,
             "showSubtitle": true,
             "firstType": "",
-            "showButtons": false,
             "secondType": "bg-primary",
             "thirdType": "hidden",
-            "fourthType": "hidden"
+            "fourthType": "hidden",
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "showButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "title": "Tarieven",
-          "subtitle": "Voor beschikbaarheid, stuur ons een mailtje ! Minimum weekverhuur - Mogelijkheid tot maandverhuur !",
+          "subtitle": "Minimum weekverhuur - Mogelijkheid tot maandverhuur !",
           "label1": "HOT!",
           "title1": "LAAGSEIZOEN",
           "subtitle1": "1 september tot &amp; met &nbsp;30 juni",
@@ -308,19 +309,19 @@
           },
           "_anchor": "form1-c",
           "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
             "labelsColor": "#232323",
             "paddingTop": "3",
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/img-2000x1371.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#fff",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": true
+            "overlayOpacity": 0.5
           },
           "title": "CONTACT FORMULIER",
           "subtitle": "Wenst u te huren ? Heeft u een vraag ? Stuur ons dan hieronder een bericht. Antwoord binnen de 24u !",
@@ -360,25 +361,25 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-h",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": 0,
             "paddingBottom": 0,
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -466,22 +467,22 @@
           ],
           "_anchor": "testimonials3-m",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "count": 3,
+            "showTitle": true,
+            "showSubtitle": false,
             "showImages": false,
             "showName": true,
             "showBio": false,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1500.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#fff",
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": false
+            "overlayOpacity": 0.5
           },
           "title": "Wat vertellen gasten over hun verblijf ?",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
@@ -541,17 +542,17 @@
           "_name": "menu",
           "_anchor": "menu-n",
           "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#282828",
             "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": false,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -568,7 +569,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HOME</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fotogallerij.html\">FOTOGALLERIJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRIJSLIJST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPARTEMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Huishoudelijk reglement.html\">Huishoudelijk reglement</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"assets/files/12%20daguitstapjes%20aan%20de%20Costa%20Del%20Sol.pdf\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Daguitstappen in de buurt<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/12%20daguitstapjes%20aan%20de%20Costa%20Del%20Sol.pdf\">12 daguitstapjes aan de Costa del Sol</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/WAT%20TE%20BELEVEN%20IN%20MARBELLA.pdf\">Wat te beleven in Marbella ?</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.marbellafamilyfun.com/\" target=\"_blank\">Activiteiten-agenda</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voorzieningen.html\" aria-expanded=\"false\">Voorzieningen<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Contact us.html\" aria-expanded=\"true\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact us.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact us.html\">TEL: +32 477/251. 387</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fotogallerij.html\">FOTOGALLERIJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRIJSLIJST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPARTEMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Huishoudelijk reglement.html\">Huishoudelijk reglement</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"assets/files/12%20daguitstapjes%20aan%20de%20Costa%20Del%20Sol.pdf\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Daguitstappen in de buurt<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/12%20daguitstapjes%20aan%20de%20Costa%20Del%20Sol.pdf\">12 daguitstapjes aan de Costa del Sol</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/WAT%20TE%20BELEVEN%20IN%20MARBELLA.pdf\">Wat te beleven in Marbella ?</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.marbellafamilyfun.com/\" target=\"_blank\">Activiteiten-agenda</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voorzieningen.html\" aria-expanded=\"false\">Voorzieningen<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Contact us.html\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact us.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact us.html\">TEL: +32 477/251. 387</a></li>"
         },
         {
           "_tags": [
@@ -580,13 +581,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2019 Marbella-on-top"
         }
@@ -654,17 +655,17 @@
           "_name": "menu",
           "_anchor": "menu-u",
           "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#282828",
             "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": false,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -681,7 +682,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HOME</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fotogallerij.html\">FOTOGALLERIJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRIJSLIJST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPARTEMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Huishoudelijk reglement.html\">Huishoudelijk reglement</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"assets/files/12%20daguitstapjes%20aan%20de%20Costa%20Del%20Sol.pdf\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Daguitstappen in de buurt<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/12%20daguitstapjes%20aan%20de%20Costa%20Del%20Sol.pdf\">12 daguitstapjes aan de Costa del Sol</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/WAT%20TE%20BELEVEN%20IN%20MARBELLA.pdf\">Wat te beleven in Marbella ?</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.marbellafamilyfun.com/\" target=\"_blank\">Activiteiten-agenda</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voorzieningen.html\" aria-expanded=\"false\">Voorzieningen<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Contact us.html\" aria-expanded=\"true\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact us.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact us.html\">TEL: +32 477/251. 387</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fotogallerij.html\">FOTOGALLERIJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRIJSLIJST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPARTEMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Huishoudelijk reglement.html\">Huishoudelijk reglement</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"assets/files/12%20daguitstapjes%20aan%20de%20Costa%20Del%20Sol.pdf\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Daguitstappen in de buurt<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/12%20daguitstapjes%20aan%20de%20Costa%20Del%20Sol.pdf\">12 daguitstapjes aan de Costa del Sol</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/WAT%20TE%20BELEVEN%20IN%20MARBELLA.pdf\">Wat te beleven in Marbella ?</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.marbellafamilyfun.com/\" target=\"_blank\">Activiteiten-agenda</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voorzieningen.html\" aria-expanded=\"false\">Voorzieningen<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Contact us.html\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact us.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact us.html\">TEL: +32 477/251. 387</a></li>"
         },
         {
           "_tags": [
@@ -693,13 +694,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2019 Marbella-on-top"
         },
@@ -725,27 +726,27 @@
           "_name": "pricing-table2",
           "_anchor": "pricing-table2-y",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
             "showTitle": true,
             "showSubtitle": true,
             "firstType": "",
-            "showButtons": false,
             "secondType": "bg-primary",
             "thirdType": "hidden",
-            "fourthType": "hidden"
+            "fourthType": "hidden",
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "showButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "title": "Tarieven",
           "subtitle": "Voor beschikbaarheid, stuur ons een mailtje ! Minimum weekverhuur - Mogelijkheid tot maandverhuur !",
@@ -850,17 +851,17 @@
           "_name": "menu",
           "_anchor": "menu-r",
           "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#282828",
             "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": false,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -877,7 +878,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HOME</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fotogallerij.html\">FOTOGALLERIJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRIJSLIJST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPARTEMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Huishoudelijk reglement.html\">Huishoudelijk reglement</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"assets/files/12%20daguitstapjes%20aan%20de%20Costa%20Del%20Sol.pdf\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Daguitstappen in de buurt<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/12%20daguitstapjes%20aan%20de%20Costa%20Del%20Sol.pdf\">12 daguitstapjes aan de Costa del Sol</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/WAT%20TE%20BELEVEN%20IN%20MARBELLA.pdf\">Wat te beleven in Marbella ?</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.marbellafamilyfun.com/\" target=\"_blank\">Activiteiten-agenda</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voorzieningen.html\" aria-expanded=\"false\">Voorzieningen<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Contact us.html\" aria-expanded=\"true\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact us.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact us.html\">TEL: +32 477/251. 387</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fotogallerij.html\">FOTOGALLERIJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRIJSLIJST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPARTEMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Huishoudelijk reglement.html\">Huishoudelijk reglement</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"assets/files/12%20daguitstapjes%20aan%20de%20Costa%20Del%20Sol.pdf\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Daguitstappen in de buurt<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/12%20daguitstapjes%20aan%20de%20Costa%20Del%20Sol.pdf\">12 daguitstapjes aan de Costa del Sol</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/WAT%20TE%20BELEVEN%20IN%20MARBELLA.pdf\">Wat te beleven in Marbella ?</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.marbellafamilyfun.com/\" target=\"_blank\">Activiteiten-agenda</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voorzieningen.html\" aria-expanded=\"false\">Voorzieningen<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Contact us.html\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact us.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact us.html\">TEL: +32 477/251. 387</a></li>"
         },
         {
           "_tags": [
@@ -889,13 +890,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2019 Marbella-on-top"
         },
@@ -906,8 +907,11 @@
           "_name": "slider3",
           "_params": {
             "autoplay": true,
-            "paddingTop": 3,
+            "fullScreen": false,
+            "paddingTop": "4",
             "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#fff",
             "timeout": 5,
             "slides": [
               {
@@ -1162,10 +1166,7 @@
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
-            ],
-            "fullScreen": false,
-            "bgColor": "#fff",
-            "showBullets": true
+            ]
           },
           "_anchor": "slider3-t",
           "articleLayout": false
@@ -1237,17 +1238,17 @@
           "_name": "menu",
           "_anchor": "menu-15",
           "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#282828",
             "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": false,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -1264,7 +1265,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HOME</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fotogallerij.html\">FOTOGALLERIJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRIJSLIJST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPARTEMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Huishoudelijk reglement.html\">Huishoudelijk reglement</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"assets/files/12%20daguitstapjes%20aan%20de%20Costa%20Del%20Sol.pdf\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Daguitstappen in de buurt<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/12%20daguitstapjes%20aan%20de%20Costa%20Del%20Sol.pdf\">12 daguitstapjes aan de Costa del Sol</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/WAT%20TE%20BELEVEN%20IN%20MARBELLA.pdf\">Wat te beleven in Marbella ?</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.marbellafamilyfun.com/\" target=\"_blank\">Activiteiten-agenda</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voorzieningen.html\" aria-expanded=\"false\">Voorzieningen<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Contact us.html\" aria-expanded=\"true\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact us.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact us.html\">TEL: +32 477/251. 387</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fotogallerij.html\">FOTOGALLERIJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRIJSLIJST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPARTEMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Huishoudelijk reglement.html\">Huishoudelijk reglement</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"assets/files/12%20daguitstapjes%20aan%20de%20Costa%20Del%20Sol.pdf\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Daguitstappen in de buurt<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/12%20daguitstapjes%20aan%20de%20Costa%20Del%20Sol.pdf\">12 daguitstapjes aan de Costa del Sol</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/WAT%20TE%20BELEVEN%20IN%20MARBELLA.pdf\">Wat te beleven in Marbella ?</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.marbellafamilyfun.com/\" target=\"_blank\">Activiteiten-agenda</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voorzieningen.html\" aria-expanded=\"false\">Voorzieningen<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Contact us.html\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact us.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact us.html\">TEL: +32 477/251. 387</a></li>"
         },
         {
           "_tags": [
@@ -1276,13 +1277,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2019 Marbella-on-top"
         },
@@ -1301,27 +1302,27 @@
           },
           "_anchor": "features1-1b",
           "_params": {
-            "columnsColor": "#2e2e2e",
-            "paddingTop": "4",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "3",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": false,
+            "columnsColor": "#2e2e2e",
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "image": {
@@ -1426,24 +1427,24 @@
           },
           "_anchor": "header2-1i",
           "_params": {
-            "imageSize": "20",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.3,
-            "overlayColor": "#000",
-            "inverse": true,
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "showArrow": true
+            "inverse": true,
+            "showArrow": true,
+            "imageSize": "20",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
           },
           "media": {
             "image": {
@@ -1525,17 +1526,17 @@
           "_name": "menu",
           "_anchor": "menu-1c",
           "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#282828",
             "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": false,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -1552,7 +1553,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HOME</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fotogallerij.html\">FOTOGALLERIJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRIJSLIJST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPARTEMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Huishoudelijk reglement.html\">Huishoudelijk reglement</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"assets/files/12%20daguitstapjes%20aan%20de%20Costa%20Del%20Sol.pdf\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Daguitstappen in de buurt<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/12%20daguitstapjes%20aan%20de%20Costa%20Del%20Sol.pdf\">12 daguitstapjes aan de Costa del Sol</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/WAT%20TE%20BELEVEN%20IN%20MARBELLA.pdf\">Wat te beleven in Marbella ?</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.marbellafamilyfun.com/\" target=\"_blank\">Activiteiten-agenda</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voorzieningen.html\" aria-expanded=\"false\">Voorzieningen<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Contact us.html\" aria-expanded=\"true\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact us.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact us.html\">TEL: +32 477/251. 387</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fotogallerij.html\">FOTOGALLERIJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRIJSLIJST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPARTEMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Huishoudelijk reglement.html\">Huishoudelijk reglement</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"assets/files/12%20daguitstapjes%20aan%20de%20Costa%20Del%20Sol.pdf\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Daguitstappen in de buurt<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/12%20daguitstapjes%20aan%20de%20Costa%20Del%20Sol.pdf\">12 daguitstapjes aan de Costa del Sol</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/WAT%20TE%20BELEVEN%20IN%20MARBELLA.pdf\">Wat te beleven in Marbella ?</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.marbellafamilyfun.com/\" target=\"_blank\">Activiteiten-agenda</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voorzieningen.html\" aria-expanded=\"false\">Voorzieningen<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Contact us.html\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact us.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact us.html\">TEL: +32 477/251. 387</a></li>"
         },
         {
           "_tags": [
@@ -1564,13 +1565,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2019 Marbella-on-top"
         },
@@ -1581,23 +1582,23 @@
           "_name": "header1",
           "_anchor": "header1-1h",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
             "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1008.jpg",
-            "bgColor": "#a07e49",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "title": "FULL SCREEN INTRO",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
@@ -1667,17 +1668,17 @@
           "_name": "menu",
           "_anchor": "menu-1j",
           "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#282828",
             "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": false,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -1694,7 +1695,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HOME</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fotogallerij.html\">FOTOGALLERIJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRIJSLIJST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPARTEMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Huishoudelijk reglement.html\">Huishoudelijk reglement</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"assets/files/12%20daguitstapjes%20aan%20de%20Costa%20Del%20Sol.pdf\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Daguitstappen in de buurt<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/12%20daguitstapjes%20aan%20de%20Costa%20Del%20Sol.pdf\">12 daguitstapjes aan de Costa del Sol</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/WAT%20TE%20BELEVEN%20IN%20MARBELLA.pdf\">Wat te beleven in Marbella ?</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.marbellafamilyfun.com/\" target=\"_blank\">Activiteiten-agenda</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voorzieningen.html\" aria-expanded=\"false\">Voorzieningen<br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Contact us.html\" aria-expanded=\"true\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact us.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact us.html\">TEL: +32 477/251. 387</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fotogallerij.html\">FOTOGALLERIJ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">PRIJSLIJST</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPARTEMENT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Huishoudelijk reglement.html\">Huishoudelijk reglement</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"assets/files/12%20daguitstapjes%20aan%20de%20Costa%20Del%20Sol.pdf\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Daguitstappen in de buurt<br></a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/12%20daguitstapjes%20aan%20de%20Costa%20Del%20Sol.pdf\">12 daguitstapjes aan de Costa del Sol</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/WAT%20TE%20BELEVEN%20IN%20MARBELLA.pdf\">Wat te beleven in Marbella ?</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.marbellafamilyfun.com/\" target=\"_blank\">Activiteiten-agenda</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"voorzieningen.html\" aria-expanded=\"false\">Voorzieningen<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"Contact us.html\" aria-expanded=\"false\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contact us.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Contact us.html\">TEL: +32 477/251. 387</a></li>"
         },
         {
           "_tags": [
@@ -1706,13 +1707,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2019 Marbella-on-top"
         },
@@ -1745,13 +1746,13 @@
             "paddingTop": "4",
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#efefef",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
